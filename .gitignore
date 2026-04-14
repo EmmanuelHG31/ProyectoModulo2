@@ -1,0 +1,7 @@
+# Base de datos local
+database.db
+database.db-x-usuarios-1-password.bin
+database.db-x-usuarios-7-password.bin
+# Archivos temporales de Python
+__pycache__/
+*.pyc
