@@ -4,7 +4,7 @@ import bcrypt
 import datetime
 import jwt
 import re
-import logging # <--- Importante para la tarea
+import logging
 
 app = Flask(__name__)
 
